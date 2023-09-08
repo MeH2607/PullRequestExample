@@ -4,9 +4,9 @@ public class PoorlyWrittenCode {
 
     public static void main(String[] args) {
         int a = 10;
-        int b = 1;
+        int b = 0;
 
-        // Division by 1, can't divide by zero
+        // Try this bro
         int result = a / b;
 
         // Unhandled exception
