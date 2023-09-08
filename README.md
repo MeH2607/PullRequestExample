@@ -17,10 +17,6 @@ public class PoorlyWrittenCode {
             e.printStackTrace();
         }
 
-        // Inefficient loop
-        for (int i = 0; i < 100000; i++) {
-            System.out.println("This is an inefficient loop.");
-        }
 
         // Poor naming and lack of comments
         int x = 5;
